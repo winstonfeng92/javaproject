@@ -13,6 +13,7 @@ public class Cell {
     private final int size;
     private int state;
 
+    
     /**
      * Constructs a new cell, initially turned off.
      * 
